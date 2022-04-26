@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Description the project.
+> Awesome books - Javascript with Objects
 
 
 ## Built With
@@ -11,42 +11,43 @@
 - Frameworks
 - Technologies used
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
+Feel free to check the: [Portfolio-link](https://ppmarq1.github.io/Porfolio-Awesome-Books/)
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+## Setup
+- Clone this repository to your desktop.
+- Navigate to the top level of the directory.
 
 ### Install
+ Clone the repository
+https://github.com/ppmarq1/Porfolio-Awesome-Books.git
+npm . init -y
+npm install
 
-### Usage
+## Run tests
+npx stylelint "**/*.{css,scss}"
+npx hint .
+npx eslint .
 
-### Run tests
-
-### Deployment
-
+- Web Browser
+- [Visual Studio code](https://code.visualstudio.com/)
 
 
 ## Authors
 
-👤 **Author1**
+👤 ## Author
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Pedro Marques**
 
-👤 **Author2**
+- GitHub: https://github.com/ppmarq1
+- Twitter: https://twitter.com/ppmarq1
+- LinkedIn: https://br.linkedin.com/in/pedroalmeidamarques/  
+
+👤 **Ehsan**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
@@ -56,17 +57,11 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/ppmarq1/Porfolio-Awesome-Books/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
