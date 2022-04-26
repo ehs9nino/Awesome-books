@@ -7,13 +7,13 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
 
 ## Live Demo 
 
-Feel free to check the: [Portfolio-link](https://ppmarq1.github.io/Porfolio-Awesome-Books/)
+Feel free to check the: [Portfolio-link](https://ehs9nino.github.io/Awesome-books/)
 
 
 ### Prerequisites
@@ -24,7 +24,7 @@ Feel free to check the: [Portfolio-link](https://ppmarq1.github.io/Porfolio-Awes
 
 ### Install
  Clone the repository
-https://github.com/ppmarq1/Porfolio-Awesome-Books.git
+git@github.com:ehs9nino/Awesome-books.git
 npm . init -y
 npm install
 
@@ -50,14 +50,14 @@ npx eslint .
 👤 **Ehsan**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@twitterhandle](https://twitter.com/ehsan9nino)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ehsan-qader-a230a6165/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ppmarq1/Porfolio-Awesome-Books/issues).
+Feel free to check the [issues page](https://github.com/ehs9nino/Awesome-books/issues).
 
 ## Show your support
 
